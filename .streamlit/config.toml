@@ -1,0 +1,32 @@
+[theme]
+base = "dark"
+primaryColor = "#58B9FF"
+backgroundColor = "#070B19"
+secondaryBackgroundColor = "#111A33"
+textColor = "#F3F7FF"
+linkColor = "#67EBFF"
+codeBackgroundColor = "#0D1530"
+codeTextColor = "#D9E7FF"
+borderColor = "#263A64"
+dataframeBorderColor = "#263A64"
+dataframeHeaderBackgroundColor = "#14254A"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "medium"
+buttonRadius = "medium"
+font = "Manrope:https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap"
+headingFont = "Space Grotesk:https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap"
+codeFont = "DM Mono:https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+headingFontSizes = ["34px", "26px", "20px", "17px", "15px", "13px"]
+headingFontWeights = [700, 700, 600, 600, 600, 500]
+linkUnderline = false
+chartCategoricalColors = ["#67EBFF", "#58B9FF", "#A78BFA", "#93F5C4", "#FB88CF", "#F8C36A", "#8FA2C8"]
+chartSequentialColors = ["#0A1024", "#0F1D42", "#15305D", "#1A4778", "#216294", "#2C81B0", "#3FA0CB", "#55BCE3", "#67D7F4", "#A6F4FF"]
+
+[theme.sidebar]
+backgroundColor = "#0A1024"
+secondaryBackgroundColor = "#111A33"
+textColor = "#E9F1FF"
+primaryColor = "#67EBFF"
+borderColor = "#263A64"
